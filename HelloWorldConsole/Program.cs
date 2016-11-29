@@ -13,7 +13,7 @@ namespace HelloWorldConsole
             Console.WriteLine("Hello World!");
 
             // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit!!.");
+            Console.WriteLine("Press any key to exit!! Oh yes do it.");
             Console.ReadKey();
         }
     }
